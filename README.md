@@ -40,8 +40,7 @@ This dashboard empowers business users to:
 * Enhanced understanding of **business KPIs and reporting needs**.
 
 ## 📷 Dashboard Preview
-
-*()*
+*(https://github.com/iamayush07032004/Sales-Dashboard-built-in-Power-BI/blob/a323f5ebf0bd37a3a8535e2c24e27de49daba1e1/Screenshot%202025-08-31%20115541.png)*
 
 
 
